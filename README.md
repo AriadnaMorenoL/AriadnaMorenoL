@@ -14,7 +14,7 @@
 - :notebook_with_decorative_cover:: I’m a Jr. FrontEnd Dev! 
 - 🌱: I’m currently learning BackEnd technologies. 🧠💻🤖
 - 😄  Pronouns: She/Her
-- ⚡  Fun fact: I like play videogames, GearsOfWar is my best :video_game:. 4 the other hand I´m a full-time mom of two :two_hearts:. 
+- ⚡  Fun fact: I like play videogames, GearsOfWar is my best :video_game:.  
   
 <hr>
 <Br>
